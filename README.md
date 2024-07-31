@@ -1,6 +1,6 @@
 # skland-checkin-ghaction
 
-利用 GitHub Action 自动完成森空岛签到，基于 ~~[Maojuan-lang](https://github.com/Maojuan-lang/SenKongDao)~~ [nonbot plugin](https://github.com/GuGuMur/nonebot-plugin-skland-arksign) 的实现包装。
+利用 GitHub Action 自动完成森空岛签到，基于 ~~[Maojuan-lang](https://github.com/Maojuan-lang/SenKongDao)~~ [nonbot plugin](https://github.com/GuGuMur/nonebot-plugin-skland-arksign) 的实现包装。 
 
 ~~只是一点微小的工作。~~
 
